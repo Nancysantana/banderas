@@ -1,0 +1,17 @@
+.bandera1, .bandera2 {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  height: 100px;
+  width: 15%;
+}
+
+.bandera1 {
+  background: #f7b617;
+}
+
+.bandera2 {
+  background: #2b2b2b;
+  color: #ffffff;
+}
